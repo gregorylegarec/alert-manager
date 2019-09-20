@@ -29,3 +29,17 @@ It's also possible to run tests:
 ```
 python test_anagram.py
 ```
+
+## 3 - Palindrome checking
+
+Run for example:
+
+```
+./palindrome.py "Esope reste ici et se repose"
+```
+
+It's also possible to run tests:
+
+```
+python test_palindrome.py
+```
