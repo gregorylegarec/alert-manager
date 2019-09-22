@@ -8,7 +8,7 @@ import fixtures from "./fixtures";
 const SIMULATION_DELAY = 2000;
 
 export const client = {
-  async fetchAlert() {
+  async fetchAlerts() {
     return new Promise((resolve, reject) => {
       setTimeout(() => resolve(fixtures), SIMULATION_DELAY);
     });
